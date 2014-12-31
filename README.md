@@ -10,4 +10,12 @@ The tool applies the formulas explained at
 
 The parameters calculated by the tool must be replaced in the file "yaml" of your robot according to the configuration used in the repository https://github.com/officinerobotiche/example_robot_ros
 
+Dependencies
+------------
+The tool can be compiled only with Qt5 support
+You must install Qt5 dependencies:
+```bash
+$ sudo apt-get install qt5-default qt-creator
+```
+
 
