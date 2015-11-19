@@ -18,4 +18,5 @@ You must install Qt5 dependencies:
 $ sudo apt-get install qt5-default qt-creator
 ```
 
-
+###Support
+Feel free to ask for help, submit suggestions, satisfy your curiosity on our [**Users Group**](https://groups.google.com/forum/?hl=it#!forum/unav-users)
